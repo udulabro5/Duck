@@ -14,19 +14,9 @@
 </div>
 <p align="center">
     World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot
-    <br>
-        <a href="https://chat.whatsapp.com/EmxfOklzLVIIyDEKPx4IYj">Whatsapp Support Group 01</a> |
-	<a href="https://chat.whatsapp.com/KpBbjUuoKCE5DclK9lKdr0">Whatsapp Support Group 02</a> |
-	<a href="https://t.me/+TaQGxVd7ZM43NDk1">Telegarm Support Group</a> |
-	<a href="https://achibrolk.wordpress.com/alpha-bot-service">Official Web Site </a> |
-        <a href="https://www.youtube.com/c/ABLKPGAchiBrolk">Youtube Channel</a> |
-	<a href="https://chat.whatsapp.com/FTtlr84ndUWIkR7PeHoqXJ">Whatsapp Bot Group</a> |
-	<a href="https://chat.whatsapp.com/KQRCEydZ4QwJ7JpKypx5gg">Whatsapp Tech Group</a> |
-	<a href="https://chat.whatsapp.com/BiRfTmouLQ2J7MaLdczOY5">Whatsapp Ehi Group</a> |
-	<a href="https://chat.whatsapp.com/GPUvBfhhz7OLZhckbGi8mj">Whatsapp knowledge Group</a> |
-	<a href="https://chat.whatsapp.com/GSijEqwPZBS4a3VzzlvKLM">Whatsapp Market Group</a>
-    <br>
-</p>
+  </p>  
+        
+
 	
 ### QR CODE
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@ALPHAOFFICIAL/ALPHA-Qr-Session-By-Achi-Fernando?v=1)
